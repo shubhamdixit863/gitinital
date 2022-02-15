@@ -10,6 +10,7 @@ git commit -m "message" // it actually saves your changes in your local git repo
 git remote add origin remote_repo_url
 
 git push -u origin master
+git branch
 
 
 //pulll
@@ -17,3 +18,5 @@ git push -u origin master
 
 // branching 
 //merge conflict
+
+//reinitialization
