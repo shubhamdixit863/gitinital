@@ -17,3 +17,5 @@ git push -u origin master
 
 // branching 
 //merge conflict
+
+//reinitialization
